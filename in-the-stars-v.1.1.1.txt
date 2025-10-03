@@ -1,4 +1,4 @@
-/* This Script Was Made From www.github.com/nicopancakes/12REM */
+/* This Script Was Made From www.github.com/nicopancakes/butterflywallpapers */
 body {
     background-image: url('https://files.catbox.moe/m67fd8.jpg');
     background-repeat: repeat;
@@ -17,4 +17,4 @@ a {
 h1, h2, h3, h4, h5, h6 {
     color: white;
 }
-/* This Script Was Made From www.github.com/nicopancakes/12REM */
+/* This Script Was Made From www.github.com/nicopancakes/butterflywallpapers */
