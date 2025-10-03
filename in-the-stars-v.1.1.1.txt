@@ -1,0 +1,20 @@
+/* This Script Was Made From www.github.com/nicopancakes/12REM */
+body {
+    background-image: url('https://files.catbox.moe/m67fd8.jpg');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: #000000;
+    min-height: 100vh;
+    margin: 0;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+a {
+    color: white;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
+/* This Script Was Made From www.github.com/nicopancakes/12REM */
